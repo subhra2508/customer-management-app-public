@@ -1,2 +1,2 @@
 # customer-management-app-public
-## This app is fully written in python Django and Bootstrap framework.
+## This app is fully written in Django and Bootstrap framework.
